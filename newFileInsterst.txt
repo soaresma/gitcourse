@@ -1,1 +1,4 @@
 new message
+new file inserted
+
+This is a new line inserted into file
